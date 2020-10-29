@@ -6,6 +6,7 @@ public class newClass {
     public static void main(String[] args) {
 
         System.out.println(StrReverse("Richard"));
+        System.out.println(StrReverse("Ekebas"));
     }
 
 
