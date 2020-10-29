@@ -7,6 +7,7 @@ public class newClass {
 
         System.out.println(StrReverse("Richard"));
         System.out.println(StrReverse("Ekebas"));
+        System.out.println(StrReverse("Jennifer and Nehir"));
     }
 
 
